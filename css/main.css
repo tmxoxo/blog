@@ -1,0 +1,12 @@
+body {
+    font-family: 'Droid Sans', 'Arial', sans-serif;
+}
+
+/* nav bar */
+#header ul{
+    list-style-type: none;
+}
+
+#header li{
+    display: inline;
+}
