@@ -25,3 +25,14 @@ body {
  color: #0d0d0d;
 
 }
+
+/* left sidebar */
+
+#lside {
+    border-right: 1px solid #f1f1f1;
+    padding: 30px;
+    width: 150px;
+    position: absolute;
+    left: 0;
+    
+}
