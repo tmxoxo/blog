@@ -9,10 +9,16 @@ body {
 /* nav bar */
 #header ul{
     list-style-type: none;
-    color: rgb(121, 119, 119)
+    color: rgb(121, 119, 119);
+    padding: 0;
 }
 
 #header li{
     display: inline;
     margin-right:20px;
+}
+
+#header li:hover{
+ color: #0d0d0d;
+
 }
