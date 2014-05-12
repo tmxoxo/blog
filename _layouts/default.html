@@ -23,6 +23,6 @@
   
       <body lang="en" id="main-layout" >
           
-         {{content}}
+         {{content |  remove: '<p>' | remove: '</p>' }}
       </body>
 </html>
