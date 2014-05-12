@@ -22,7 +22,7 @@
   </head>
   
       <body lang="en" id="main-layout" >
-          
+         {% include nav.html %}
          {{content |  remove: '<p>' | remove: '</p>' }}
       </body>
 </html>
