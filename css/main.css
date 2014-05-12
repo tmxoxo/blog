@@ -36,3 +36,10 @@ body {
     left: 0;
     
 }
+
+/* content */
+
+#content{
+    margin-right: 130px;
+    border-right: 1px solid #f1f1f1;
+}
