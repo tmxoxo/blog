@@ -45,6 +45,15 @@ body {
     border-right: 1px solid #f1f1f1;
 }
 
+#blockcontent{
+    font-family: "Open Sans";
+    font-size: 13px;
+}
+
+#blockcontent h2{
+    font-family: "Raleway", "Arial", sans-serif;
+    font-size: 19px;
+}
 /* right sidebar */
 
 #rside{
