@@ -11,7 +11,7 @@ categories:
 
 <div id = "blockcontent">
 
-It's been 5+ years of dating, 4+ years of living together and 7 months of being 
+It's been 5+ years of dating, 4+ years of living together and over 6 months of being 
 engaged. So ... <i> when's the big day</i>? <br><br>
 
 Sorry folks, we don't know yet. But we promise to let you know when we figure it

@@ -28,12 +28,13 @@ body {
 
 #header a{
  color: rgb(121,119,119);
+ text-decoration:none
  
 }
 
 #header a:hover{
  color: #0d0d0d;
- 
+
 }
 
 /* left sidebar */
@@ -63,6 +64,7 @@ body {
 div#content h2{
     font-family: "Raleway", "Arial", sans-serif;
     font-size: 19px;
+    font-weight: normal;
 }
 /* right sidebar */
 
