@@ -26,6 +26,15 @@ body {
 
 }
 
+#header a{
+ color: rgb(121,119,119);
+ 
+}
+
+#header a:hover{
+ color: #0d0d0d;
+}
+
 /* left sidebar */
 
 #lside {
