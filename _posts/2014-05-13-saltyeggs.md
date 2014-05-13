@@ -3,7 +3,7 @@ layout: post
 title: Preserved Eggs
 date: 2014-05-13
 author: marie
-categories:
+tags: food, family
 
 ---
 

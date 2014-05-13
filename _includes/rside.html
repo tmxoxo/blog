@@ -2,5 +2,7 @@
 POSTED <br>
 {{include.date | date_to_string }} <br><br>
 AUTHOR<br>
-{{include.author}}
+{{include.author}}<br><br>
+TAGS<br>
+{{page.tags | array_to_sentence_string}}
 </div>
