@@ -9,4 +9,6 @@ categories:
 
 <h2>Wedding Details</h2>
 
-It's been {{ 2014 | minus: 2008 }} years of dating, 4+ years of living together and
+<div id = "blockcontent">
+{% capture this_year %}{{post.date | date: "%Y" }}{% endcapture}
+It's been {{ this_year | minus: 2008 }} years of dating, 4+ years of living together and
