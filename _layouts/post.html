@@ -25,6 +25,6 @@
      {% include nav.html %}
      {% include lside.html %}
      <div id = "content">{{content | remove: '<p>' | remove: '</p>' }}</div>
-    {% include rside.html date=page.date author=page.author tags={{page.tags | array_to_sentence_string}} %} 
+    {% include rside.html date=page.date author=page.author %} 
     </body>
 </html>
