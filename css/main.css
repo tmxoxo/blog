@@ -44,3 +44,11 @@ body {
     margin-left: 210px;
     border-right: 1px solid #f1f1f1;
 }
+
+/* right sidebar */
+
+#rside{
+    float: right;
+    width: 100px;
+    padding: 30px 0;
+}
