@@ -4,5 +4,5 @@ POSTED <br>
 AUTHOR<br>
 {{include.author}}<br><br>
 TAGS<br>
-{{ post.tags }}
+{{ include.tags | array_to_sentence_string  }}
 </div>
