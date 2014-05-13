@@ -11,4 +11,6 @@ categories:
 
 <div id = "blockcontent">
 {% capture this_year %}{{post.date | date: "%Y" }}{% endcapture %}
-It's been {% this_year - 2008 %} years of dating, 4+ years of living together and
+{{this_year}}
+
+It's been {% {{this_year}} - 2008 %} years of dating, 4+ years of living together and
