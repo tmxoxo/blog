@@ -1,5 +1,6 @@
 body {
     font-family: 'Droid Sans', 'Arial', sans-serif;
+    max-width: 95%
 }
 
 /* header section - includes logo and nav bar */
@@ -75,5 +76,7 @@ div#content h2{
     font-size: 10px;
     color: rgb(121,130,134);
     position: absolute;
-    right: 0px;
+    right: 30px;
+    top:30px;
+    text-align:right;
 }
