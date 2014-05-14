@@ -48,6 +48,6 @@
     </body>
     <script>
         rside = document.getElementbyID("rside");
-        rside.innerhtmlrside.innerHTML + "TAGS<br><br>{{ page.tags | array_to_sentence_string }}";
+        rside.innerhtml = rside.innerHTML + "TAGS<br><br>{{ page.tags | array_to_sentence_string }}";
     </script>
 </html>
