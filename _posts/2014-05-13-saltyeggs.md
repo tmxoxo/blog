@@ -10,6 +10,11 @@ tags: food, family
 <h2>{{page.title}}</h2>
 
 <div id = "blockcontent">
-The quiet ones, that what you have to watch out for, right?
+The quiet ones, that what you have to watch out for, right? 
+
+And eggs certainly fall into that category, whether lined up tidily in cartons
+at the grocery or on a counter ready to incorporate into batter for pancakes/cookies/cakes/custards/etc <br><br>
+
+
 
 </div>
