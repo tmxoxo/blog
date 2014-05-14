@@ -117,5 +117,7 @@ div#blockcontent li{
     margin-left:210px;
     margin-right:130px;
     padding: 0 30px;
+    border-right: 1px solid #f1f1f1;
+    border-left: 1px solid #f1f1f1;
 
 }
