@@ -45,9 +45,10 @@
     
     {% endif %}
         {% include footer.html %}
-    </body>
+
     <script>
-        rside = document.getElementByID("rside");
-        rside.innerhtml = rside.innerHTML + "TAGS<br><br>{{ page.tags | array_to_sentence_string }}";
+rside = document.getElementByID("rside");
+rside.innerhtml = rside.innerHTML + "TAGS<br><br>{{ page.tags | array_to_sentence_string }}";
     </script>
+    </div>
 </html>
