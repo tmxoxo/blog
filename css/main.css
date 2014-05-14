@@ -69,6 +69,14 @@ div#content h2{
     font-size: 19px;
     font-weight: normal;
 }
+
+div#content ol{
+    padding-left:15px;
+}
+
+div#content li{
+    padding-left:10px;
+}
 /* right sidebar */
 
 #rside{
