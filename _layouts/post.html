@@ -47,7 +47,7 @@
         {% include footer.html %}
 
     <script>
-rside = document.getElementByID("rside");
+var rside = document.getElementByID("rside");
 rside.innerhtml = rside.innerHTML + "TAGS<br><br>{{ page.tags | array_to_sentence_string }}";
     </script>
     </body>
