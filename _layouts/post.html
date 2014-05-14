@@ -26,5 +26,6 @@
      {% include lside.html %}
      <div id = "content">{{content | remove: '<p>' | remove: '</p>' }}</div>
     {% include rside.html date=page.date author=page.author %} 
+    {% include footer.html %}
     </body>
 </html>
