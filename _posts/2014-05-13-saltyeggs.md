@@ -39,26 +39,24 @@ Ingredients:<br><br><br>
 1 quart screw top jar<br><br>
 
 Method:<br><br>
-<ol>
-<li>Prepare your jar. We are not canning here, so our goal is cleanliness without the need for an air-tight seal - feel free to reuse old jars! I like to run any container that
-has been sitting on our shelves through a heated rinse/dry in my dishwasher. </li>
-<li>Disolve the salt in water (1:4 by volume) and bring to a rolling boil. Let it cool.</li>
-<li>While the brining solution is cooling, clean your eggs by rinsing in cool water 
-and drain. Set aside any eggs with imperfections - cracks are bad!</li>
-<li>Add the (whole) eggs to your prepared jar.</li>
-<li>Pour the brine solution over the eggs and attach the lid loosly. The eggs 
-should be completely submerged.</li>
-<li>Store in a dark, cool place for 4-6 weeks. I keep mine under the stairs in my 
-basement</li>
-<li>At the four week mark, retrieve one egg, rinse and cook (remember! raw eggs!). The
+
+
+1. Prepare your jar. We are not canning here, so our goal is cleanliness without the need for an air-tight seal - feel free to reuse old jars! I like to run any container that
+has been sitting on our shelves through a heated rinse/dry in my dishwasher. 
+2. Disolve the salt in water (1:4 by volume) and bring to a rolling boil. Let it cool.
+3. While the brining solution is cooling, clean your eggs by rinsing in cool water 
+and drain. Set aside any eggs with imperfections - cracks are bad!
+4. Add the (whole) eggs to your prepared jar.
+5. Pour the brine solution over the eggs and attach the lid loosly. The eggs 
+should be completely submerged.
+6. Store in a dark, cool place for 4-6 weeks. I keep mine under the stairs in my 
+basement.
+7. At the four week mark, retrieve one egg, rinse and cook (remember! raw eggs!). The
 eggs are ready when they have reached desired saltiness and the cooked yolks are 
 bright orange-red. For saltier eggs, simply leave the egg to brine for a little 
-longer.</li>
-<li>When your eggs are ready, rinse off the brine solution for remaining eggs 
-and transfer to a container in your fridge.</li>
-</ol>
-
-
+longer.
+8. When your eggs are ready, rinse off the brine solution for remaining eggs 
+and transfer to a container in your fridge.
 
 
 
