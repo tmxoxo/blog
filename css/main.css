@@ -68,13 +68,20 @@ div#content h2{
     font-family: "Raleway", "Arial", sans-serif;
     font-size: 19px;
     font-weight: normal;
+    color: #77903c;
 }
 
-div#content ol{
+div#blockcontent h2{
+    color: #77903c;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+div#blockcontent ol{
     padding-left:15px;
 }
 
-div#content li{
+div#blockcontent li{
     padding-left:10px;
 }
 /* right sidebar */

@@ -32,14 +32,17 @@ cuisine, although I am more than happy to be corrected.<br><br>
 
 While traditionally, these are made with duck eggs, chicken eggs work just fine.<br><br>
 
-Ingredients:<br><br>
+INGREDIENTS:<br>
 
-1 dozen eggs<br>
-4 cups water<br>
-1 cup salt<br>
-1 quart screw top jar<br><br>
+<ul>
+<li>1 dozen eggs</li>
+<li>4 cups water</li>
+<li>1 cup salt</li>
+<li>1 quart screw top jar</li>
+</ul>
+<br>
 
-Method:<br><br>
+METHOD:<br><br>
 
 <ol>
 <li>Prepare your jar. We are not canning here, so our goal is cleanliness without the need for an air-tight seal - feel free to reuse old jars! I like to run any container that
