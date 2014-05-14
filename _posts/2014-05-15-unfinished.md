@@ -36,7 +36,7 @@ Oh, and the floor, baseboards and hvac registers will be replaced (all at once t
 easy-peasy, right? At least I have my paint colors picked out :-)<br><br>
 
 *I'm debating between DIY Ardex countertops (concrete-look) and butcher block. 
-Ardex will cost ~ 1/3 butcher block which is about 1/2 cost of laminate. Of course 
+Ardex will cost approximately 1/3 the cost of economy butcher block which is about 1/2 the cost of nice laminate which is about 1/2 the cost of solid surface. Of course 
 I want to try a "test" project before I commit to Ardex....
 
 

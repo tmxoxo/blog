@@ -3,6 +3,6 @@ layout: default
 title: 
 ---
 
-{% for post in site.posts %}
-post.title
+{% for thispost in site.posts %}
+thispost.title
 {% endfor %}
