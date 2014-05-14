@@ -42,7 +42,7 @@ body {
 /* left sidebar */
 
 #lside {
-    border-right: 1px solid #f1f1f1;
+/*    border-right: 1px solid #f1f1f1; */
     padding: 30px;
     width: 150px;
     position: absolute;
@@ -56,6 +56,10 @@ body {
     margin-right: 130px;
     margin-left: 210px;
     border-right: 1px solid #f1f1f1;
+    border-left: 1px solid #f1f1f1;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-top:5px;
 }
 
 #blockcontent{
@@ -98,3 +102,6 @@ div#blockcontent li{
     top:30px;
     text-align:right;
 }
+
+/* footer */
+

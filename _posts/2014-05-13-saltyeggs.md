@@ -40,7 +40,6 @@ INGREDIENTS:<br>
 <li>1 cup salt</li>
 <li>1 quart screw top jar</li>
 </ul>
-<br>
 
 METHOD:<br>
 
