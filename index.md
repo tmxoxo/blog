@@ -1,7 +1,6 @@
 ---
 layout: default
-title: 
-date: 2014-05-01
+title: hi!
 ---
 
-hello world
+hello world!
