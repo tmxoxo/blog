@@ -42,7 +42,7 @@ INGREDIENTS:<br>
 </ul>
 <br>
 
-METHOD:<br><br>
+METHOD:<br>
 
 <ol>
 <li>Prepare your jar. We are not canning here, so our goal is cleanliness without the need for an air-tight seal - feel free to reuse old jars! I like to run any container that
@@ -63,6 +63,22 @@ longer.</li>
 and transfer to a container in your fridge.</li>
 </ol>
 
+<h2>Okay, now what?</h2>
+
+My favorite way to cook up salted eggs is to steam them in a rice cooker with 
+some chinese sausage. The salt from the egg is a nice contrast to cut through
+the sausage fat and adds dimension to plain white rice. <br><br>
+
+My mom will use the yolks from boiled salted eggs to create a custard to dip 
+sweet bread into. Technically, you're supposed to fill the rolls with the custard,
+but separting the two is less technique-driven. <i>And just as tasty!</i>.
+
+<h2>Yikes, they are way too salty</h2>
+
+When I made these for Ted the first time, he found them <i>too</i> salty. After
+all, they look basically like regular boiled eggs, so it was an unexpected flavor.
+What worked for us was to poach them in a light broth with some vegetables and 
+wontons. The saltiness from the egg acted to salt both the soup and the veggies.
 
 
 </div>
