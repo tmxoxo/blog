@@ -10,10 +10,55 @@ tags: food, family
 <h2>{{page.title}}</h2>
 
 <div id = "blockcontent">
-The quiet ones, that what you have to watch out for, right? 
+The quiet ones, that what you have to watch out for, right? <br><br>
 
 And eggs certainly fall into that category, whether lined up tidily in cartons
-at the grocery or on a counter ready to incorporate into batter for pancakes/cookies/cakes/custards/etc <br><br>
+at the grocery or on a counter ready to incorporate into batter for pancakes/cookies/cakes/custards/etc. <br><br>
+
+But for everyday meals I prefer simple & easy: boiled, poached, or steamed. Given the 
+frequency with which we eat eggs (a cheap and low-cal protein source), this 
+cooking method can get boring week after week. <br><br>
+
+<b>disclaimer</b>: <i>the methods below discuss preservation of eggs in a solution 
+of high salinity and/or high acidity. failure to sanitize appropriately, achieve the necessary salinity/acidity levels and/or food storage at room temperatures increases the risk of infection by the botulinum toxin (botulism), which is a life-threatening condition.</i><br><br>
+
+Was that warning dire enough? Are you still interested? Well, read on <br><br>
+
+Today I'm going to talk about preserving eggs using the high salinity method. It's 
+an easy way of infusing a lot of flavor into the eggs using minimal ingredients.
+It's also a technique that I've only come across in Asian and Pacific Islander
+cuisine, although I am more than happy to be corrected.<br><br>
+
+While traditionally, these are made with duck eggs, chicken eggs work just fine.<br><br>
+
+Ingredients:<br><br><br>
+
+1 dozen eggs<br>
+4 cups water<br>
+1 cup salt<br>
+1 quart screw top jar<br><br>
+
+Method:<br><br>
+<ol>
+<li>Prepare your jar. We are not canning here, so our goal is cleanliness without the need for an air-tight seal - feel free to reuse old jars! I like to run any container that
+has been sitting on our shelves through a heated rinse/dry in my dishwasher. </li>
+<li>Disolve the salt in water (1:4 by volume) and bring to a rolling boil. Let it cool.</li>
+<li>While the brining solution is cooling, clean your eggs by rinsing in cool water 
+and drain. Set aside any eggs with imperfections - cracks are bad!</li>
+<li>Add the (whole) eggs to your prepared jar.</li>
+<li>Pour the brine solution over the eggs and attach the lid loosly. The eggs 
+should be completely submerged.</li>
+<li>Store in a dark, cool place for 4-6 weeks. I keep mine under the stairs in my 
+basement</li>
+<li>At the four week mark, retrieve one egg, rinse and cook (remember! raw eggs!). The
+eggs are ready when they have reached desired saltiness and the cooked yolks are 
+bright orange-red. For saltier eggs, simply leave the egg to brine for a little 
+longer.</li>
+<li>When your eggs are ready, rinse off the brine solution for remaining eggs 
+and transfer to a container in your fridge.</li>
+</ol>
+
+
 
 
 
