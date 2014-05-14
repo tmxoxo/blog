@@ -12,9 +12,10 @@ comments: true
 <div id = "blockcontent">
 I swear that I must be the world's slowest remodler. Seriously, people build houses
 (and stage them for sale) faster than I can get a single room done. And frankly,
-after 5 years of work, there still isn't a single room that is completely "done". I don't think there ever will be.  
+after 5 years of work, there still isn't a single room that is completely "done". I don't think there ever will be.  <br><br>
 
-The todo list for the kitchen/eating area is:
+The todo list for the kitchen/eating area (because I can't think about the whole 
+house without my head exploding) is:
 
 <ol>
 <li>Patch and paint the cabinets</li>
@@ -32,7 +33,7 @@ The todo list for the kitchen/eating area is:
 
 Oh, and the floor, baseboards and hvac registers will be replaced (all at once thru the  entire house). <br><br>
 
-easy-peasy, right? <br><br>
+easy-peasy, right? At least I have my paint colors picked out :-)<br><br>
 
 *I'm debating between DIY Ardex countertops (concrete-look) and butcher block. 
 Ardex will cost ~ 1/3 butcher block which is about 1/2 cost of laminate. Of course 
