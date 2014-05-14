@@ -110,3 +110,11 @@ div#blockcontent li{
     padding-top:20px;
     width: 100%;
 }
+
+/* comments */
+
+#disqus_thread{
+    margin-left:210px;
+    margin-right:130px;
+
+}
