@@ -10,7 +10,7 @@ comments: true
 <h2>{{page.title}}</h2>
 
 <div id = "blockcontent">
-The quiet ones, that what you have to watch out for, right? <br><br>
+The quiet ones are what you have to watch out for, right? <br><br>
 
 And eggs certainly fall into that category, whether lined up tidily in cartons
 at the grocery or on a counter ready to incorporate into batter for pancakes/cookies/cakes/custards/etc. Innocuous but oh-so-tasty.<br><br>
@@ -25,7 +25,7 @@ of high salinity and/or high acidity. failure to sanitize appropriately, achieve
 
 Was that warning dire enough? Are you still interested? Well, read on <br><br>
 
-Today I'm going to talk about preserving eggs using the high salinity method. It's 
+Today I'm going to talk about preserving eggs using a high salinity method. It's 
 an easy way of infusing a lot of flavor into the eggs using minimal ingredients.
 It's also a technique that I've only come across in Asian and Pacific Islander
 cuisine, although I am more than happy to be corrected.<br><br>
@@ -70,14 +70,19 @@ the sausage fat and adds dimension to plain white rice. <br><br>
 
 My mom will use the yolks from boiled salted eggs to create a custard to dip 
 sweet bread into. Technically, you're supposed to fill the rolls with the custard,
-but separting the two is less technique-driven. <i>And just as tasty!</i>.
+but separting the two is less technique-driven. <i>And just as tasty!</i>
 
 <h2>Yikes, they are way too salty</h2>
 
 When I made these for Ted the first time, he found them <i>too</i> salty. After
 all, they look basically like regular boiled eggs, so it was an unexpected flavor.
 What worked for us was to poach them in a light broth with some vegetables and 
-wontons. The saltiness from the egg acted to salt both the soup and the veggies.
+wontons. The saltiness from the egg acted to season both the soup and the veggies.
 
-
+<h2>Variations and usage</h2>
+Adding spices will infuse the eggs with subtle flavors. Peppercorns and star 
+anise are a popular combination - use whole, not powdered anise. Plain salted eggs 
+may be used in both savory and sweet recipes. Just remember that salted eggs are
+still raw, and should be stored in the refrigerator or a cool, dark location. 
+To extend their shelf life, like fresh eggs, coat in mineral oil (flip the carton over monthly). 
 </div>
