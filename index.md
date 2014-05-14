@@ -3,4 +3,4 @@ layout: default
 title: 
 ---
 
-{{site.time}}
+hello world
