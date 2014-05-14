@@ -4,7 +4,7 @@ title: Wedding Deets
 date: 01/01/2014
 author: marie
 categories:
-
+comments: false
 ---
 
 <h2>Wedding Details</h2>

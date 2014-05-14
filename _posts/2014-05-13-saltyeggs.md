@@ -4,7 +4,7 @@ title: Salted Eggs
 date: 2014-05-13
 author: marie
 tags: food, family
-
+comments: true
 ---
 
 <h2>{{page.title}}</h2>
