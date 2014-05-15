@@ -15,7 +15,12 @@ Please enter your email address: <br>
 <input type="submit" value="Subscribe" /><br>
 Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a>
 </form>
-<br><br>
-OR<br><br>
 
+<div style = "text-align:center;">
+<br><br>  
+OR  
+<br><br>  
+
+<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"/>
 <a href = "http://feeds.feedburner.com/tmxoxo">Subscribe in a reader</a>
+</div>
