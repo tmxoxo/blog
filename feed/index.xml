@@ -19,7 +19,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://tmxoxo.github.io/blog{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>Ted & Marie </author>
+      <author>Ted and Marie </author>
       <guid>http://tmxoxo.github.io/blog{{ post.id }}</guid>
       <description>{{ post.content | strip_html | truncate: 100 | xml_escape }}</description>
     </item>
