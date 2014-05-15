@@ -132,18 +132,18 @@ div#blockcontent li{
 
 /* misc */
 
-#form {
+#content form {
     padding:3px;
     text-align:center;
     font-size:12px;
     font-family:'Open Sans';
 }
 
-#form a{
+#content form a{
     text-decoration:none;
     color: #77903c;
 }
 
-#form a:hover{
+#content form a:hover{
     color: #0d0d0d;
 }
