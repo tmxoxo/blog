@@ -77,6 +77,10 @@ div#content h2, div#content h2 a{
     text-decoration: none;
 }
 
+div#content h2 a:hover{
+    color: #0d0d0d;
+}
+
 div#blockcontent h2{
     color: #77903c;
     font-size: 12px;
