@@ -7,4 +7,11 @@ categories:
 comments: false
 ---
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=tmxoxo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="tmxoxo" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+<form style="padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=tmxoxo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+Enter your email address:
+<input type="text" style="width:140px" name="email"/>
+<input type="hidden" value="tmxoxo" name="uri"/>
+<input type="hidden" name="loc" value="en_US"/>
+<input type="submit" value="Subscribe" />
+Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a>
+</form>
