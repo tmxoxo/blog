@@ -69,11 +69,12 @@ body {
     margin: 0 20px;
 }
 
-div#content h2{
+div#content h2, div#content h2 a{
     font-family: "Raleway", "Arial", sans-serif;
     font-size: 19px;
     font-weight: normal;
     color: #77903c;
+    text-decoration: none;
 }
 
 div#blockcontent h2{
