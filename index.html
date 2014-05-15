@@ -36,8 +36,9 @@ date: 2014-05-01
     <div id = "blockcontent">
         {{ post.content  | truncatewords: 200 }} >>
     </div>
+    </div>
 {% endfor %}
-</div>
+{% include footer.html %}
 
 </body>
 </html>
