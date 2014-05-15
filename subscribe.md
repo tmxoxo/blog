@@ -16,7 +16,7 @@ Please enter your email address: <br>
 Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a>
 </form>
 
-<div style = "text-align:center;">
+<div id = "sub" >
 <br><br>  
 OR  
 <br><br>  

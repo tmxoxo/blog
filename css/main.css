@@ -130,7 +130,7 @@ div#blockcontent li{
 
 }
 
-/* misc */
+/* subscription page */
 
 #content form {
     padding:3px;
@@ -146,4 +146,20 @@ div#blockcontent li{
 
 #content form a:hover{
     color: #0d0d0d;
+}
+
+#sub{
+    text-align:center;
+    font-family: 'Open Sans';
+}
+
+#sub a{
+    text-decoration: none;
+    color:#77903c;
+    
+    
+}
+
+#sub a:hover{
+     color: #0d0d0d;
 }
