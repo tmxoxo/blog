@@ -7,9 +7,7 @@ tags: food, family
 comments: true
 ---
 
-<h2>{{page.title}}</h2>
 
-<div id = "blockcontent">
 The quiet ones are what you have to watch out for, right? <br><br>
 
 And eggs certainly fall into that category, whether lined up tidily in cartons
@@ -85,4 +83,3 @@ anise are a popular combination - use whole, not powdered anise. Plain salted eg
 may be used in both savory and sweet recipes. Just remember that salted eggs are
 still raw, and should be stored in the refrigerator or a cool, dark location. 
 To extend their shelf life, like fresh eggs, coat in mineral oil (flip the carton over monthly). 
-</div>

@@ -34,7 +34,7 @@ date: 2014-05-01
     <div id = "content">
     <h2>{{ post.title }} // {{ post.date | date:"%m.%d.%Y" }}</h2>
     <div id = "blockcontent">
-        {{ post.excerpt  | truncatewords: 200 }} >>
+        {{ post.content  | truncatewords: 200 }} >>
     </div>
 {% endfor %}
 </div>

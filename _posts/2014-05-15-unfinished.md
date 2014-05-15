@@ -7,9 +7,6 @@ tags: house
 comments: true
 ---
 
-## {{page.title}}
-
-<div id = "blockcontent">
 I swear that I must be the world's slowest remodler. Seriously, people build houses
 (and stage them for sale) faster than I can get a single room done. And frankly,
 after 5 years of work, there still isn't a single room that is completely "done". I don't think there ever will be.  <br><br>
@@ -40,4 +37,3 @@ Ardex will cost approximately 1/3 the cost of economy butcher block which is abo
 I want to try a "test" project before I commit to Ardex....
 
 
-</div>
