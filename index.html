@@ -31,7 +31,7 @@ date: 2014-05-01
 {% include lside.html %}
 
 {% for post in site.posts limit: 10 %}
-    <div id = "content" style="position:relative;">
+    <div id = "content" style="position:relative;min-height:none;">
     <h2>{{ post.title }}</h2>
     <div id = "blockcontent" style = "border-bottom:1px dashed #f1f1f1;">
         {{ post.content  | truncatewords: 200 }}  <a href = "http://tmxoxo.github.io/blog{{post.url}}"> >> </a>

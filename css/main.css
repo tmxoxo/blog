@@ -60,6 +60,7 @@ body {
     padding-bottom: 30px;
     padding-left: 15px;
     padding-top:5px;
+    min-height:750px;
 }
 
 #blockcontent{
