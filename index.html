@@ -24,8 +24,9 @@ title: test
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Droid+Sans:normal,400|Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic|Raleway:200"/>
     <meta name="description" content="tmxoxo: blog"/>
 </head>
-<body>
+<body lang="en" id="main-layout" >
 <h2>{{page.title}}</h2> 
+{% include nav.html %}
 
 {% for post in site.posts limit: 10 %}
    {{ post.title  }}
