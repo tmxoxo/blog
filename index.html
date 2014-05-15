@@ -36,7 +36,14 @@ date: 2014-05-01
     <div id = "blockcontent" style = "border-bottom:1px dashed #f1f1f1;">
         {{ post.content  | truncatewords: 200 }}  <a href = "http://tmxoxo.github.io/blog{{post.url}}"> >> </a>
     </div>
-
+    <div id = "rside">
+        POSTED<br>
+        {{post.date | date_to_string}} <br><br>
+        AUTHOR<br>
+        {{post.author}} <br><br>
+        TAGS<br>
+        {{ post.tags | array_to_sentence_string }}
+    </div>
     </div>
     
 {% endfor %}
