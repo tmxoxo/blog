@@ -31,7 +31,7 @@ date: 2014-05-01
 {% include lside.html %}
 <div id = "content">
 {% for post in site.posts limit: 10 %}
-   {{ post.title  }}
+   {{ post.title }} // {{ post.date | date:"%m.%d.%Y" }} >>
 {% endfor %}
 </div>
 
