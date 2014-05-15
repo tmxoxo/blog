@@ -1,6 +1,7 @@
 body {
     font-family: 'Droid Sans', 'Arial', sans-serif;
-    max-width: 95%
+    max-width: 95%;
+       min-height:750px;
 }
 
 /* header section - includes logo and nav bar */
@@ -60,7 +61,7 @@ body {
     padding-bottom: 30px;
     padding-left: 15px;
     padding-top:5px;
-    min-height:750px;
+ 
 }
 
 #blockcontent{

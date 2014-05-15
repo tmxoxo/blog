@@ -8,8 +8,8 @@ comments: false
 ---
 <h2>Posts by tag</h2>
 
-{% for atag in site.tags limit:1 %}
- {{atag }} <br>
+{% for atag in site.tags  %}
+  {{{atag | first}} <br>
 {% endfor %}
 
 Custom search available momentarily...<br>
