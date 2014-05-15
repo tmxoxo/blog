@@ -6,6 +6,10 @@ author: marie
 categories:
 comments: false
 ---
+{% for atag in site.tags}
+ atag <br>
+{% endfor %}
+
 
 <script>
   (function() {
