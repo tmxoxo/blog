@@ -3,3 +3,7 @@ title: test
 ---
 
 <h2>{{page.title}}</h2> 
+
+{% for post in site.posts limit: 10 %}
+   {% include imagefilter.md %}
+{% endfor %}
