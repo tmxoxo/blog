@@ -6,11 +6,13 @@ author: marie
 categories:
 comments: false
 ---
-{% for atag in site.tags %}
- {{atag | first}} <br>
+<h2>Posts by tag</h2>
+
+{% for atag in site.tags limit:1 %}
+ {{atag }} <br>
 {% endfor %}
 
-
+Custom search available momentarily...<br>
 <script>
   (function() {
     var cx = '007344001035800283464:zwpj83rpmd0';
