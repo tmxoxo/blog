@@ -7,7 +7,7 @@ categories:
 comments: false
 ---
 {% for atag in site.tags %}
- {{atag | last}} <br>
+ {{atag | first}} <br>
 {% endfor %}
 
 
