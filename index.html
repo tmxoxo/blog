@@ -25,9 +25,8 @@ title: test
     <meta name="description" content="tmxoxo: blog"/>
 </head>
 <body lang="en" id="main-layout" >
-<h2>{{page.title}}</h2> 
 {% include nav.html %}
-
+{% include lside.html %}
 {% for post in site.posts limit: 10 %}
    {{ post.title  }}
 {% endfor %}
