@@ -29,10 +29,11 @@ date: 2014-05-01
 <body lang="en" id="main-layout" >
 {% include nav.html %}
 {% include lside.html %}
+<div id = "content">
 {% for post in site.posts limit: 10 %}
    {{ post.title  }}
 {% endfor %}
-
+</div>
 
 </body>
 </html>
