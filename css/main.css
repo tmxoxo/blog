@@ -177,5 +177,5 @@ div#catlinks a{
 
 div#catlinks a:hover{
     font-weight: bold;
-
+    text-decoration:underline;
 }
