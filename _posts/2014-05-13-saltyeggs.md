@@ -3,7 +3,7 @@ layout: post
 title: Salted Eggs
 date: 2014-05-13
 author: marie
-tags: food family
+tags: food
 comments: true
 ---
 
