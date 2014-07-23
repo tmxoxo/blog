@@ -1,0 +1,58 @@
+---
+title: Food posts  
+author: marie  
+date: 2014-05-01  
+---
+
+<!doctype html>
+<!--[if lt IE 9]><html class="ie"><![endif]-->
+<!--[if gte IE 9]><!-->
+<html>
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }} | tmxoxo </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Ted & Marie" />
+    <link rel="stylesheet" href="/blog/css/main.css" />
+    <link rel="stylesheet" href="/blog/css/code_highlights.css" />
+    <link rel="stylesheet" href="/blog/css/widescreen.css" />
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/images/avatar.png"/>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Droid+Sans:normal,400|Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic|Raleway:200"/>
+    <meta name="description" content="tmxoxo: blog"/>
+</head>
+<body lang="en" id="main-layout" >
+{% include nav.html %}
+{% include lside.html %}
+
+{% for post in site.posts %}
+    {% for tag in post.tags | first %}
+      {% if tag == 'food' %}
+        <div id = "content" style="position:relative;min-height:0px;">
+        <h2><a href = "http://tmxoxo.github.io/blog{{post.url}}">{{ post.title }}</a></h2>
+        <div id = "blockcontent" style = "border-bottom:1px dashed #f1f1f1;">
+            {{ post.content  | truncatewords: 200 }}  <a href = "http://tmxoxo.github.io/blog{{post.url}}"> >> </a>
+        </div>
+        <div id = "rside" style = "right:-175px;">
+            POSTED<br>
+            {{post.date | date_to_string}} <br><br>
+            AUTHOR<br>
+            {{post.author}} <br><br>
+            TAGS<br>
+            {{ post.tags | array_to_sentence_string }}
+    
+        </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    
+{% endfor %}
+{% include footer.html %}
+
+</body>
+</html>
