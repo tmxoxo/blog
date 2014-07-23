@@ -174,3 +174,8 @@ div#catlinks a{
     color: #77903c;
     text-decoration: none;
 }
+
+div#catlinks a:hover{
+    font-weight: bold;
+
+}
