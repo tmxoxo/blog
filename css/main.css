@@ -164,3 +164,13 @@ div#blockcontent li{
 #sub a:hover{
      color: #0d0d0d;
 }
+
+/* search page */
+
+div#catlinks a{
+    font-family: "Raleway", "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #77903c;
+    text-decoration: none;
+}
