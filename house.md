@@ -1,5 +1,5 @@
 ---
-title: home  
+title: House posts  
 author: marie  
 date: 2014-05-01  
 ---
