@@ -12,7 +12,7 @@ comments: false
   {{{atag | first}} <br>
 {% endfor %}
 
-Custom search available momentarily...<br>
+
 <script>
   (function() {
     var cx = '007344001035800283464:zwpj83rpmd0';
