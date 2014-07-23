@@ -9,7 +9,9 @@ comments: false
 <h2>Posts by tag</h2>
 
 {% for atag in site.tags  %}
-  <a href = "http://tmxoxo.github.io/blog/{{{atag | first}}">{{{atag | first}}</a> <br>
+  <div id = "catlinks">
+  <a href = "http://tmxoxo.github.io/blog/{{{atag | first}}" >{{{atag | first}}</a> <br>
+  </div>
 {% endfor %}
 
 
