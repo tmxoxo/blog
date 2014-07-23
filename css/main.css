@@ -81,7 +81,6 @@ div#content h2, div#content h2 a{
 div#content h2 a:hover{
     color: #0d0d0d;
     font-weight: bold;
-    text-decoration: underline;
 }
 
 div#blockcontent h2{
