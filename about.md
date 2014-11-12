@@ -17,11 +17,9 @@ with our dogs, Jayne (aka "First Pup") and Nandi (aka "Princess"), in the midwes
 To our family and close friends reading along: <b>big hugs</b>. We love you 
 lots! <br><br>
 
-See us around the web: <br>
+See us around the web: <br><br>
 
-<a href="http://instagram.com/rducky26?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a> <br><br>
-
-<!-- Facebook Badge START --><a href="https://www.facebook.com/pages/Nandi-Vendettuoli-Hoagland/468590923285271" title="Nandi Vendettuoli-Hoagland" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/468590923285271.853.1485541152.png" style="border: 0px;" alt="" /></a><!-- Facebook Badge END -->
+<a href="http://instagram.com/rducky26?ref=badge" class="ig-b- ig-b-v-24"><img src="http://tmxoxo.github.io/blog/media/instagram.png" alt="Instagram" /></a> <a href="https://www.facebook.com/pages/Nandi-Vendettuoli-Hoagland/468590923285271" title="Nandi Vendettuoli-Hoagland" target="_TOP"><img class="img" src="http://tmxoxo.github.io/blog/media/facebook.png" style="border: 0px;" alt="" /></a>
 
 </div>
 
