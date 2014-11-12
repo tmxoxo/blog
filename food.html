@@ -33,7 +33,7 @@ date: 2014-05-01
 {% for post in site.posts %}
     {% for tag in post.tags | first %}
       {% if tag == 'food' %}
-        <div id = "content" style="position:relative;min-height:0px;">
+        <div id = "content" style="position:relative;min-height:475px;">
         <h2><a href = "http://tmxoxo.github.io/blog{{post.url}}">{{ post.title }}</a></h2>
         <div id = "blockcontent" style = "border-bottom:1px dashed #f1f1f1;">
             {{ post.content  | truncatewords: 200 }}  <a href = "http://tmxoxo.github.io/blog{{post.url}}"> >> </a>
