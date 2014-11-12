@@ -4,7 +4,7 @@ title: About Us
 date: 01/01/2014
 author: marie
 categories:
-comments: false
+comments: true
 
 ---
 
@@ -17,7 +17,9 @@ with our dogs, Jayne (aka "First Pup") and Nandi (aka "Princess"), in the midwes
 To our family and close friends reading along: <b>big hugs</b>. We love you 
 lots! <br><br>
 
-<a href="http://instagram.com/rducky26?ref=badge" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
+See us around the web: <br>
+
+<a href="http://instagram.com/rducky26?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a> <br><br>
 
 <!-- Facebook Badge START --><a href="https://www.facebook.com/pages/Nandi-Vendettuoli-Hoagland/468590923285271" title="Nandi Vendettuoli-Hoagland" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/468590923285271.853.1485541152.png" style="border: 0px;" alt="" /></a><!-- Facebook Badge END -->
 
