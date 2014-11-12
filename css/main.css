@@ -44,7 +44,7 @@ body {
 
 #lside {
 /*    border-right: 1px solid #f1f1f1; */
-    padding: 30px;
+    padding: 10px 30px 30px 30px;
     width: 150px;
     position: absolute;
     left: 0;
